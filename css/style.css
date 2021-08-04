@@ -1,0 +1,22 @@
+
+.error{
+	color:red;
+	font-size: 18px;
+}
+
+.f1 input[type=text], .f1 input[type=email], .f1 input[type=date], .f1 [type=submit]{
+	font-size: 20px;
+}
+.f1{
+	
+	padding: 20px;
+}
+@media only screen and (min-width: 1200px) {
+
+  .f1{
+	
+	background-color: #FFF6D2;
+	padding: 50px;
+}
+}
+
